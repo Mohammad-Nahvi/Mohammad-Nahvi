@@ -1,13 +1,14 @@
-<h1>Hi, I'm Mohammad! <br/><a href="https://github.com/joshmadakor1">Audio Visual Technician</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Support</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Mohammad! <br/><a href="https://github.com/joshmadakor1">Audio Visual Technician</a>, <a href="https://www.linkedin.com/in/joshmadakor/">IT Support</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>                    
 
-<h2>👨‍💻 Software Development Projects:</h2>
+![EuB0](https://user-images.githubusercontent.com/124463217/216789105-ffe8238b-f638-4ed9-b1dd-30db9e83c39a.gif)
+<h2>👨‍💻 Software Development Projects:</h2>                                                        
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)                    
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
@@ -59,6 +60,6 @@ Here are some ideas to get you started:
 
 
 
-  ![EuB0](https://user-images.githubusercontent.com/124463217/216789105-ffe8238b-f638-4ed9-b1dd-30db9e83c39a.gif)
+  
 
 
